@@ -22,7 +22,6 @@ There are three ways in which you can authorize the `SecretServer` and `SecretSe
 
 ### Usage
 
-
 #### Password Authorization
 
 
